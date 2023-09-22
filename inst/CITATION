@@ -1,0 +1,13 @@
+bibentry(
+  bibtype = "Article",
+  textVersion = "Snaebjarnarson, Audunn S., et al. Complex effects of sequence variants on lipid levels and coronary artery disease. Cell 186.19 (2023): 4085-4099.",
+  header = "To cite gnonadd in publications, please use",
+  journal = "Cell",
+  volume="186",
+  number="19",
+  pages="4085--4099",
+  year="2023",
+  author = "Snaebjarnarson, Audunn S and Helgadottir, Anna and Arnadottir, Gudny A and Ivarsdottir, Erna V and Thorleifsson, Gudmar and Ferkingstad, Egil and Einarsson, Gudmundur and Sveinbjornsson, Gardar and Thorgeirsson, Thorgeir E and Ulfarsson, Magnus O and others",
+  title = "Complex effects of sequence variants on lipid levels and coronary artery disease",
+  publisher = "Elsevier",
+)
