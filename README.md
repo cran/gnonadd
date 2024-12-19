@@ -4,14 +4,18 @@
 # gnonadd
 
 <!-- badges: start -->
+
+[![CRAN](https://www.r-pkg.org/badges/version/gnonadd)](https://cran.r-project.org/package=gnonadd)
+[![Downloads](https://cranlogs.r-pkg.org/badges/gnonadd?color=brightgreen)](https://www.r-pkg.org/pkg/gnonadd)
+![alt tag](https://cranlogs.r-pkg.org/badges/grand-total/gnonadd)
 <!-- badges: end -->
 
 `gnonadd` is a package accompanying the paper [Complex effects of
 sequence variants on lipid levels and coronary artery
-disease](https://www.sciencedirect.com/science/article/pii/S0092867423009017?dgcid=coauthor)
-published in Cell September 2023. The package is intended to properly
-document the conducted analysis and aid researchers in studying various
-non-additive models.
+disease](https://doi.org/10.1016/j.cell.2023.08.012) published in Cell
+September 2023. The package is intended to properly document the
+conducted analysis and aid researchers in studying various non-additive
+models.
 
 ## What is in the package?
 
@@ -75,21 +79,22 @@ For citing this package, please use the following source:
 
 ``` r
 citation("gnonadd")
+#> To cite gnonadd in publications, please use
 #> 
-#> To cite gnonadd in publications use:
-#> 
+#>   Snaebjarnarson, Audunn S., et al. Complex effects of sequence
+#>   variants on lipid levels and coronary artery disease. Cell 186.19
+#>   (2023): 4085-4099.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Article{,
-#>     title = {Complex effects of sequence variants on lipid levels and coronary artery disease},
-#>     author = {Audunn S. Snaebjarnarson et al.},
 #>     journal = {Cell},
-#>     year = {2023},
 #>     volume = {186},
-#>     issue = {19},
-#>     pages = {4085-4099.e15},
-#>     url = {https://www.sciencedirect.com/science/article/pii/S0092867423009017},
-#>     doi = {https://doi.org/10.1016/j.cell.2023.08.012},
+#>     number = {19},
+#>     pages = {4085--4099},
+#>     year = {2023},
+#>     author = {{Snaebjarnarson} and Audunn S and {Helgadottir} and {Anna} and {Arnadottir} and Gudny A and {Ivarsdottir} and Erna V and {Thorleifsson} and {Gudmar} and {Ferkingstad} and {Egil} and {Einarsson} and {Gudmundur} and {Sveinbjornsson} and {Gardar} and {Thorgeirsson} and Thorgeir E and {Ulfarsson} and Magnus O and others},
+#>     title = {Complex effects of sequence variants on lipid levels and coronary artery disease},
+#>     publisher = {Elsevier},
 #>   }
 ```

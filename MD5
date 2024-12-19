@@ -1,7 +1,7 @@
-c364856b7133eac25869124f7ae06b0e *DESCRIPTION
+77735f6551c710b367e3168adae30509 *DESCRIPTION
 ba610a7c55feec5d0b284fb38e416958 *LICENSE
 4283a10fcf68cac9015d3f2d98f97105 *NAMESPACE
-983afb555be83a90adf08478ede7b15a *NEWS.md
+5f3d2404df1565b8f9471ed54c52fe4f *NEWS.md
 df57984bb666bd6b2d9dd1946c7f76ea *R/Dominance_CaseControl_model.R
 dc3ab0c0fb8938fd141b9884bf9ab9a2 *R/Dominance_model.R
 3628bda7f7a9e0799bffcf0698c05813 *R/Ellipse_by_genotype.R
@@ -17,7 +17,7 @@ b6ea820ac496ebfb13c7df9dc6efade8 *R/Env_interaction_model.R
 54cd7f743467c1b26ba80c50e7728a9c *R/VarGS_assoc_plot.R
 ae4bed99da63f7bd1f33ccc78a8477b7 *R/Variance_adjustments.R
 293458cea70fe9ad659e24993b282259 *R/Variance_multiple_parameter_estimation.R
-f7b7d65f6466a68ce3d32314bcbabf8b *R/Variance_summary_stats.R
+652bee3289ee4897b4a3a55818589f45 *R/Variance_summary_stats.R
 82022a7f29adc9539fd621a867d4d7a2 *R/Violin_by_genotype.R
 80faa377fe909e308e94885c85f59d25 *R/auxiliary_alpha_cond.R
 fd92b3adca2694fd16061af89846ab6f *R/auxiliary_alpha_continuous_cond.R
@@ -29,9 +29,9 @@ dbfc791ae544a522fe6d06264a85ebba *R/interaction_CaseControl_model.R
 fbbc4db2db61098191ab898415fada35 *R/interaction_model.R
 293698c8c66ed58f612c66e84e5aa01b *R/sysdata.rda
 ea8116ffed70dba2381f7823056a72fa *R/variance_conditional.R
-29bc66b7e3572a41da7c85ac2efaf8fa *R/variance_continuous_conditional.R
+06a31e82b71e93287840c6adbe16a178 *R/variance_continuous_conditional.R
 4694c59cf5d1ad96a33ae10f6b6d7005 *R/variance_model.R
-4d4af03d8340fb1cfa9bc5e4fbcc6cca *README.md
+b0bb5b027d7ef92a1e9b657c16e526e7 *README.md
 cde2c9edfba554fe5b52e2c3953b79a1 *inst/CITATION
 4ecd7c0e940a6dc425095d4c6bc4a18e *inst/raw/create_variance_from_additive_lookup_table_step1.R
 844ab4e90150fe16e91047930fd45df2 *inst/raw/create_variance_from_additive_lookup_table_step2.R
